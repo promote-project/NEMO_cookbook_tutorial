@@ -4,9 +4,7 @@
 
 ## **NEMO Cookbook Tutorial** - PROMOTE Analysis Sprint
 
-**Last Updated: 12/07/2026**
-
-:book: [**Documentation**](https://promote-project.github.io/nemo_cookbook_tutorial/)
+**Last Updated: 13/07/2026**
 
 ### **PROMOTE Analysis Sprint**
 
@@ -22,6 +20,7 @@ The **PROMOTE Analysis Sprint** is a week of focussed model evaluation by the PR
 
 As part of the [PROMOTE Analysis Sprint](https://promote-project.github.io/promote_analysis_sprint_2026/) 13th-17th July 2026, we'll be delivering a hands-on tutorial to introduce participants to the NEMO Cookbook open-source Python library for reproducible analysis and validation of NEMO ocean model outputs.
 
+:book: [**Tutorial Documentation**](https://promote-project.github.io/nemo_cookbook_tutorial/)
 
 #### **What is NEMO Cookbook?**
 
